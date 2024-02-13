@@ -1,0 +1,54 @@
+_repo: The-mystery-of-the-Sea-Lark_72751
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, Charles M.
+    - Relyea, C. M. (Charles Mark)
+    - Reylea, C. M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+    wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+creator:
+  authors:
+  - agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+  - agent_name: Holt, H. P.
+    alias: Holt, H.P.
+    gutenberg_agent_id: '56796'
+    url: http://www.gutenberg.org/2009/agents/56796
+description: ''
+gutenberg_issued: '2024-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72751'
+  lccn: '20014289'
+language: en
+pgterms:marc904: https://archive.org/details/mysteryofsealark00barb
+pgterms:marc905: 20181128104600barbour
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Century Co., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Sailboats -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The mystery of the Sea-Lark
+url: http://www.gutenberg.org/ebooks/72751
