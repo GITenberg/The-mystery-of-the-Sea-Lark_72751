@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8637'
     url: http://www.gutenberg.org/2009/agents/8637
     wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+covers:
+- cover_type: archival
+  image_path: 72751-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barbour, Ralph Henry
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '56796'
     url: http://www.gutenberg.org/2009/agents/56796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72751#The-mystery-of-the-Sea-Lark
 gutenberg_issued: '2024-01-18'
 gutenberg_type: Text
 identifiers:
